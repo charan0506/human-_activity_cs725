@@ -1,8 +1,11 @@
 # human-_activity_cs725
-
+Human Activity Recognition using Smartphones
+---------------------------------------------
 
 Download the dataset from the link https://www.kaggle.com/uciml/human-activity-recognition-with-smartphones
 Extract it into folder named dataset.
+
+
 Structure
 ---------
 * dataset
