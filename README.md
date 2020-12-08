@@ -9,8 +9,8 @@ Extract it into folder named dataset.
 Structure
 ---------
 * dataset
-    -- train.csv
-    -- test.csv
+    ** train.csv
+    ** test.csv
 * README.md
 * Neural_Network.ipynb
 * cs725project.ipynb
